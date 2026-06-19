@@ -1,0 +1,20 @@
+# Raw and generated data excluded from public portfolio
+raw_data/
+references/
+input/
+extracted/
+renders/
+node_modules/
+*.pdf
+*.pptx
+*.xlsm
+*.xlsx
+*.zip
+*.gz
+*.xml
+*.png
+*.pyc
+__pycache__/
+dataset_folder.html
+gmv_data_folder.html
+
