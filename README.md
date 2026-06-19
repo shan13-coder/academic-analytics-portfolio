@@ -10,26 +10,26 @@ The repository is intentionally curated for public review. It includes project s
 
 | Project | Focus | Methods |
 |---|---|---|
-| E-Commerce GMV Growth Analysis | Business analytics, customer analytics | Data quality checks, relational joins, GMV decomposition, RFM-style segmentation, PSI, cohort analysis |
-| Global Maritime Network & Cargo Flow Analysis | Supply-chain and maritime analytics | UNCTAD data pipeline, Tableau dashboards, correlation, log-linear modelling, bootstrap, hub typology |
-| Urban Mobility & Mode Structure Analysis | Transportation data science | Official mobility panel, PCA, K-means++, silhouette scoring, ARI stability testing |
-| Red Sea Shipping Disruption Analysis | Supply-chain disruption and resilience | Before/after reconstruction, route-impact dataset, port winner/loser ranking, transshipment exposure |
-| Freeway VD & ETC Traffic Flow Analysis | Transportation operations analytics | XML/CSV processing, cross-source consistency checks, congestion classification, threshold sensitivity |
-| Public Transport Accessibility with QGIS | GIS and accessibility analysis | Household coverage, buffer sensitivity, route-aware accessibility screening |
-| DHL Supply Chain Digital Transformation | Logistics strategy | Source-KPI matrix, distribution-network scenario modelling, sensitivity analysis |
+| [E-Commerce GMV Growth Analysis](ecommerce-gmv-growth-analysis/) | Business analytics, customer analytics | Data quality checks, relational joins, GMV decomposition, RFM-style segmentation, PSI, cohort analysis |
+| [Global Maritime Network & Cargo Flow Analysis](global-maritime-network-cargo-flow/) | Supply-chain and maritime analytics | UNCTAD data pipeline, Tableau dashboards, correlation, log-linear modelling, bootstrap, hub typology |
+| [Urban Mobility & Mode Structure Analysis](urban-mobility-mode-structure/) | Transportation data science | Official mobility panel, PCA, K-means++, silhouette scoring, ARI stability testing |
+| [Red Sea Shipping Disruption Analysis](red-sea-shipping-disruption/) | Supply-chain disruption and resilience | Before/after reconstruction, route-impact dataset, port winner/loser ranking, transshipment exposure |
+| [Freeway VD & ETC Traffic Flow Analysis](freeway-vd-etc-traffic-flow/) | Transportation operations analytics | XML/CSV processing, cross-source consistency checks, congestion classification, threshold sensitivity |
+| [Freeway Speed-Flow Relationship Analysis](freeway-speed-flow-relationship/) | Traffic-flow modelling | XML.GZ parsing, weighted minute-level aggregation, period comparison, speed-flow model testing |
+| [Public Transport Accessibility with QGIS](public-transport-accessibility-qgis/) | GIS and accessibility analysis | Household coverage, buffer sensitivity, route-aware accessibility screening |
+| [DHL Supply Chain Digital Transformation](dhl-supply-chain-digital-transformation/) | Logistics strategy | Source-KPI matrix, distribution-network scenario modelling, sensitivity analysis |
 
 ## Repository Structure
 
 ```text
-projects/
-  ecommerce-gmv-growth-analysis/
-  global-maritime-network-cargo-flow/
-  urban-mobility-mode-structure/
-  red-sea-shipping-disruption/
-  freeway-vd-etc-traffic-flow/
-  freeway-speed-flow-relationship/
-  public-transport-accessibility-qgis/
-  dhl-supply-chain-digital-transformation/
+ecommerce-gmv-growth-analysis/
+global-maritime-network-cargo-flow/
+urban-mobility-mode-structure/
+red-sea-shipping-disruption/
+freeway-vd-etc-traffic-flow/
+freeway-speed-flow-relationship/
+public-transport-accessibility-qgis/
+dhl-supply-chain-digital-transformation/
 assets/
   portfolio-level summaries and CV project selection notes
 ```

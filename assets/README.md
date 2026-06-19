@@ -8,11 +8,11 @@ This portfolio prioritizes projects with reproducible data pipelines, defensible
 
 | Priority | Project | Primary value | Strongest evidence | Deliverable |
 |---|---|---|---|---|
-| 1 | Global Maritime Network & Cargo Flow | Data Science + Supply Chain | 95-economy model; 5,000 bootstrap samples; correlation CI 0.791-0.882; robustness R-squared 0.682-0.739 | [Workbook](../projects/02_global_maritime/outputs/global_maritime_robustness_typology_extension.xlsx) |
-| 2 | Red Sea Port Resilience | Supply Chain disruption analytics | 27 port-route impacts; 22 ports; 25/26 services rerouted; transshipment exposure 85.24% | [Workbook](../projects/05_red_sea/outputs/red_sea_port_resilience_extension.xlsx) |
-| 3 | Urban Mobility Official Panel & Clustering | Data Science | 242 city-year records; PCA; k = 2-6 comparison; silhouette 0.727; mean seed ARI 0.951 | [Panel](../projects/06_urban_mobility/outputs/urban_mobility_official_panel_extension.xlsx) / [Clustering](../projects/06_urban_mobility/outputs/urban_mobility_pca_clustering_extension.xlsx) |
-| 4 | Freeway VD & ETC Traffic Flow | Data engineering + validation | 2,160 raw records; 100% merge completeness; threshold sensitivity; six directional ETC links | [Pipeline](../projects/01_freeway_vd_etc/outputs/freeway_vd_etc_data_science_extension.xlsx) / [Sensitivity](../projects/01_freeway_vd_etc/outputs/vd_etc_threshold_sensitivity_extension.xlsx) |
-| 5 | Speed-Flow Relationship Analysis | Transportation modelling | 120 official XML snapshots; quadratic model comparison; 33 congested minutes; 32-minute continuous event | [Workbook](../projects/04_speed_flow/outputs/speed_flow_data_science_extension.xlsx) |
+| 1 | Global Maritime Network & Cargo Flow | Data Science + Supply Chain | 95-economy model; 5,000 bootstrap samples; correlation CI 0.791-0.882; robustness R-squared 0.682-0.739 | [Project](../global-maritime-network-cargo-flow/) |
+| 2 | Red Sea Port Resilience | Supply Chain disruption analytics | 27 port-route impacts; 22 ports; 25/26 services rerouted; transshipment exposure 85.24% | [Project](../red-sea-shipping-disruption/) |
+| 3 | Urban Mobility Official Panel & Clustering | Data Science | 242 city-year records; PCA; k = 2-6 comparison; silhouette 0.727; mean seed ARI 0.951 | [Project](../urban-mobility-mode-structure/) |
+| 4 | Freeway VD & ETC Traffic Flow | Data engineering + validation | 2,160 raw records; 100% merge completeness; threshold sensitivity; six directional ETC links | [Project](../freeway-vd-etc-traffic-flow/) |
+| 5 | Speed-Flow Relationship Analysis | Transportation modelling | 120 official XML snapshots; quadratic model comparison; 33 congested minutes; 32-minute continuous event | [Project](../freeway-speed-flow-relationship/) |
 
 ## Secondary Projects
 
